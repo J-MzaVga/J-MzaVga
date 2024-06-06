@@ -1,17 +1,19 @@
 
-👋🏻Hola Bienvenido/a mi perfil
-👨🏻‍💻Soy Jesus, una persona curiosa, trabajadora y que le encanta resolver problemas complejos. Inicialmente, desarrollé mi carrera profesional como Ingeniero Civil  pero he reorientado y enfocado mi carrera profesional al mundo de la tecnología y los datos.
-📊 ¿Y por qué me interesan los datos? Porque considero que los datos son la mejor herramienta para conectar con el mundo y bien utilizados pueden ayudar a resolver grandes problemas en múltiples sectores, como las finanzas, los procesos de ventas y negocioaciones con su rentabilidad.
-➕¿Qué puedo aportar a su equipo? Trabajo principalmente con las siguientes tecnologías, siempre en la base de su aplicación práctica en problemas reales. 
-🔹Programación a traves de: 𝐏𝐲𝐭𝐡𝐨𝐧 y sus principales librerías como lo son Numpy, Pandas, Matplotlib, Seaborn, Scikit-Learn.
-🔹Bases de datos: 𝐒𝐐𝐋.
-🔹Visualización de datos: 𝐓𝐚𝐛𝐥𝐞𝐚𝐮, Power BI. 
-🔹Machine Learning: Modelos de aprendizaje supervisado, no supervisado, refuerzo
-🔹Matemáticas y estadística.
-🔆 Me encanta la cooperación y el trabajo en equipo.
-📙Me apasiona aprender idiomas y hablo con fluidez inglés, Español y estoy en proceso de aprendizaje de Frances y Portugues.
-📩 Si te interesa mi perfil y quisieras contactar conmigo puedes hacerlo en: jesusmzavg@gmail.com
-Data Analytics | Data Science | Business Intelligence | Machine Learning | Atificial Inteligence | Data Engeeniering | Civil Engeeniering | Full Stack Developer | Brand Manager | Appointment Setter | Closer de Ventas
+👋🏻Hello! Welcome to my profile.
+👨🏻‍💻 I'm Jesus, a curious, hardworking individual who loves solving complex problems. Initially, I pursued my professional career as a Civil Engineer, but I have since redirected and focused my career towards the world of technology and data.
+📊 And why am I interested in data? Because I believe data is the best tool to connect with the world, and when used effectively, it can help solve significant problems in multiple sectors, such as finance, sales processes, and negotiations, enhancing their profitability. 
+➕What can I bring to your team? I primarily work with the following technologies, always focusing on their practical application to real-world problems. 
+🔹Programming through: Python and its main libraries such as Numpy, Pandas, Matplotlib, Seaborn, Scikit-Learn. 
+🔹Databases: SQL.
+🔹Data Visualization: Tableau, Power BI. 
+🔹Machine Learning: Supervised, unsupervised, and reinforcement learning models. 
+🔹Mathematics and statistics.
+🔆I thrive on cooperation and teamwork. 
+📙I'm passionate about learning languages and speak English and Spanish fluently, and I'm currently in the process of learning French and Portuguese. 
+📩 If you're interested in my profile and would like to contact me, you can do so at: jesusmzavg@gmail.com Data Analytics | Data Science | Business Intelligence | Machine Learning | Artificial Intelligence | Data Engineering | Civil Engineering | Full Stack Developer | Brand Manager | Appointment Setter | Sales Closer
+
+
+
 
 
 
