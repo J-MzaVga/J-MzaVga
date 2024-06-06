@@ -1,5 +1,4 @@
 
-
 👋🏻Hola Bienvenido/a mi perfil
 👨🏻‍💻Soy Jesus, una persona curiosa, trabajadora y que le encanta resolver problemas complejos. Inicialmente, desarrollé mi carrera profesional como Ingeniero Civil  pero he reorientado y enfocado mi carrera profesional al mundo de la tecnología y los datos.
 📊 ¿Y por qué me interesan los datos? Porque considero que los datos son la mejor herramienta para conectar con el mundo y bien utilizados pueden ayudar a resolver grandes problemas en múltiples sectores, como las finanzas, los procesos de ventas y negocioaciones con su rentabilidad.
